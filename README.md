@@ -1,8 +1,8 @@
 # SFSL_MED
 Siamese-based Few-Shot Learning for Medicine (Discrimination of COPD and Asthma Subjects) 
 
-This repository presents the application of the Siamese-based Few-Shot Learning (FSL) algorithms for addressing the shortcomings of Machine Learning (ML) methods in medicine with limited data availability. The example here demonstrates the discrimination of Chronic Obstructive
-Pulmonary Disease (COPD) patients from asthma subjects using the zero-, one-, and five-shot learning schemes. The Exasens dataset, used in this study, contains information on hundred saliva samples collected from four groups of respiratory patients including: COPD (40), HC (40), asthma (10), and respiratory infected subjects without COPD–asthma (infected–10 samples). Further information on the Exasens datasdet is available at https://github.com/Pouya-SZ/HCOPD. 
+This repository presents the application of the Siamese-based Few-Shot Learning (SFSL) algorithms for addressing the shortcomings of machine learning methods in medicine with limited data availability. The example here demonstrates the discrimination of Chronic Obstructive Pulmonary Disease (COPD) patients from asthma subjects using the zero-, one-, and five-shot learning schemes. The Exasens dataset, used in this study, contains information on hundred saliva samples collected from four groups of respiratory patients including: COPD (40), HC (40), asthma (10), and respiratory infected subjects without COPD–asthma (infected–10 samples). Further information on the Exasens dataset is available at https://github.com/Pouya-SZ/HCOPD. 
+
 Analog_All_data.csv file shows the original data before binarization, while All_data.csv file is the converted dataset. 
 
 
