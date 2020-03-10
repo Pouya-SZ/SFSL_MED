@@ -8,8 +8,7 @@ Analog_All_data.csv file shows the original data before binarization, while All_
 
 In case of using the proposed Few-Shot Learning methods or the Exasens dataset, please refer to the following papers:
 
-P. S. Zarrin, T. Masquelier, and C. Wenger. Implementation of Siamese-based Few-shot Learning Algorithms for the
-Distinction of COPD and Asthma Subjects: A Possible Solution for the Application of Machine Learning in Medicine with Limited Data. International Conference on Robotics and Automation (ICRA), Paris, France, 2020.
+P. S. Zarrin, and C. Wenger. Implementation of Siamese-based Few-shot Learning Algorithms for the Distinction of COPD and Asthma Subjects: A Possible Solution for the Application of Machine Learning in Medicine with Limited Data. International Conference on Robotics and Automation (ICRA), Paris, France, 2020.
 
 P. S. Zarrin, N. Roeckendorf, and C. Wenger. In-vitro Classification of Saliva Samples of COPD Patients and Healthy Controls Using Non-perceptron Machine Learning Tools. Annals of biomedical engineering, 2020.
 
